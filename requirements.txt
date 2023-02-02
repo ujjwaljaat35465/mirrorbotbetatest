@@ -42,4 +42,3 @@ waybackpy
 xattr
 yt-dlp
 megasdkrestclient
-qbittorrent-nox
